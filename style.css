@@ -41,6 +41,9 @@ body {
   border-radius: 4px;
   z-index: 2;
 }
+.description {
+  margin-bottom: 5px;
+}
 
 .menu-item {
   width: 75px;
